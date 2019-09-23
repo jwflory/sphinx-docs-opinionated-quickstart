@@ -4,10 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+recommonmark = "*"
 sphinx = "*"
 sphinx-rtd-theme = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
