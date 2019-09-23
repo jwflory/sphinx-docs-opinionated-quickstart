@@ -2,9 +2,9 @@ sphinx-docs-opinionated-quickstart
 ==================================
 
 [![License: BSD 3-Clause License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Build Status](https://travis-ci.com/jwflory/sphinx-docs-template.svg?branch=master)](https://travis-ci.com/jwflory/sphinx-docs-template)
+[![Build Status](https://travis-ci.com/jwflory/sphinx-docs-opinionated-quickstart.svg?branch=master)](https://travis-ci.com/jwflory/sphinx-docs-opinionated-quickstart)
 
-Quick-start, opinionated template repository to add [Sphinx-based documentation](http://www.sphinx-doc.org/) to an existing project 
+Quick-start, opinionated template repository to add [Sphinx-based documentation](http://www.sphinx-doc.org/) to an existing project
 
 
 ## About
